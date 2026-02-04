@@ -34,31 +34,32 @@ El repositorio contiene, al menos, los siguientes elementos:
 - 📝 **Comentarios** que recogen el razonamiento y los pasos seguidos durante el desarrollo.
 - 📘 **README.md** con la explicación general del proyecto (este archivo).
 
-Buenas prácticas aplicadas
+## Buenas prácticas aplicadas
 
-Uso de nombres de variables descriptivos.
+- Uso de nombres de variables descriptivos.
 
-Funciones pequeñas y con una única responsabilidad.
+- Funciones pequeñas y con una única responsabilidad.
 
-Comentarios claros para explicar la lógica del código.
+- Comentarios claros para explicar la lógica del código.
 
-Evitar duplicación de código.
+- Evitar duplicación de código.
 
-Manejo de errores y excepciones cuando es necesario.
+- Manejo de errores y excepciones cuando es necesario.
 
-Uso de herramientas de IA 🤖
+## Uso de herramientas de IA 🤖
 
 El uso de herramientas de Inteligencia Artificial está permitido en este proyecto.
 No obstante, se han utilizado de forma responsable, asegurando en todo momento la comprensión del código y del razonamiento detrás de cada ejercicio.
 
 Este proyecto está enfocado en consolidar el aprendizaje, no solo en obtener el resultado final.
 
-Autor ✍️
+## Autor ✍️
 
 Cecilia de la Cámara
 Proyecto desarrollado como parte de la formación en Python.
 
 ¡Gracias por revisar este proyecto! 🚀
+
 
 
 
